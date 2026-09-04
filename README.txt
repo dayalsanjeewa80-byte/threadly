@@ -13,3 +13,18 @@ WhatsApp: +94 71 171 6672
 Email: dayalsanjeewa80@gmail.com
 
 Open index.html in a browser to preview the website.
+
+
+SEO SETUP
+- Canonical URLs added to all pages.
+- Google-friendly titles and meta descriptions added.
+- Open Graph and Twitter sharing metadata added.
+- robots.txt added.
+- sitemap.xml added.
+- WebSite and Organization structured data added to the home page.
+- Sitemap URL: https://dayalsanjeewa80-byte.github.io/threadly/sitemap.xml
+- Robots URL: https://dayalsanjeewa80-byte.github.io/threadly/robots.txt
+
+After pushing these files to GitHub Pages, use Google Search Console URL Inspection
+to inspect the home page and shop page. If Google shows "Request Indexing", you can
+request a fresh crawl after the SEO changes.
