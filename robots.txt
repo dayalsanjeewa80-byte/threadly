@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayalsanjeewa80-byte.github.io/threadly/sitemap.xml
